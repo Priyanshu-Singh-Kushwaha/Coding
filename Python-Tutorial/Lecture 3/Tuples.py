@@ -1,0 +1,7 @@
+tup = (87, 64, 33, 95, 76)
+print(type(tup))
+print(tup[0])
+print(tup[1])
+print(tup[1:3])
+print(tup.index(64))
+print(tup.count(64))
